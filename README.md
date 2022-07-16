@@ -3,7 +3,7 @@
 ### About Me 👨🏽‍💻
 
 * 👀 I am Olatunde Sodiq, A Senior Software Engineer.
-* 💻 I am a full stack Engineer, with backend heavy
+* 💻 I am a full stack Engineer, with more focused on backend technologies and development
 * 🤔 Interested in Reading, Architecting, Programming and Building Stuffs
 
 ## Tech Stack
