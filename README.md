@@ -35,6 +35,8 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olacodes&show_icons=true&count_private=true&theme=dark" alt="Olatunde Sodiq" /></p>
+
 ### Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olatunde-sodiq/)
